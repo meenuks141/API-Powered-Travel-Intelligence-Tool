@@ -1,0 +1,6 @@
+{
+    "api_base_url": "https://api.restcountries.com/countries/v5",
+    "api_key": "rc_live_5f074b3e72f948a39881957595a043c8",
+    "request_timeout": 15,
+    "output_directory": "outputs"
+}

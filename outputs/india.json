@@ -1,0 +1,24 @@
+{
+    "country": "India",
+    "capital": [
+        "New Delhi"
+    ],
+    "currency": [
+        "Indian rupee (INR) - ₹"
+    ],
+    "population": 1429404000,
+    "languages": [
+        "English",
+        "Hindi",
+        "Tamil"
+    ],
+    "region": "Asia",
+    "neighbouring_countries": [
+        "Bangladesh",
+        "Bhutan",
+        "Myanmar",
+        "China",
+        "Nepal",
+        "Pakistan"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "country": "Japan",
+    "capital": [
+        "Tokyo"
+    ],
+    "currency": [
+        "Japanese yen (JPY) - ¥"
+    ],
+    "population": 122650000,
+    "languages": [
+        "Japanese"
+    ],
+    "region": "Asia",
+    "neighbouring_countries": [
+        "No land neighbours"
+    ]
+}
